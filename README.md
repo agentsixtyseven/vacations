@@ -1,4 +1,4 @@
-# vacations
+##vacations
 vacation bucket list
 
 ##North America
@@ -6,7 +6,10 @@ vacation bucket list
 * Brighton
 * Whistler
 
-#South america
+##South america
+* some place that i can ski in the summer
+
+## Europe
 
 #antartica
 * that one cold place
