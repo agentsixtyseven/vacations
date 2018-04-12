@@ -6,4 +6,8 @@ vacation bucket list
 * Brighton
 * Whistler
 
+# South america
+
+# antartica 
+
 ##Other places 
