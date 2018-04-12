@@ -1,13 +1,17 @@
 # vacations
-vacation bucket list 
+vacation bucket list
 
 ##North America
-* Snowbird 
+* Snowbird
 * Brighton
 * Whistler
 
-# South america
+#South america
 
-# antartica 
+#antartica
+* that one cold place
+* that other cold place
+* by the penguins
 
-##Other places 
+
+##Other places
